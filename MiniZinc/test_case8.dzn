@@ -1,0 +1,10 @@
+% test 8
+% optimal solution: total_fun(59)
+% UNSAT
+
+num = 10;
+cap = 6;
+refill = 6;
+fun = [-4,1,2,-3,1,2,-4,5,1,-2];
+K = 60;
+

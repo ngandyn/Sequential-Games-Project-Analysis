@@ -1,0 +1,4 @@
+```
+sudo docker pull krrkul/idp3:latest; \
+sudo docker run -it --rm --name idp3 -p 4004:4004 -v ~/idp:/root/idp krrkul/idp3:latest
+```

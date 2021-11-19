@@ -1,0 +1,10 @@
+% test 15
+% optimal solution: total_fun(150)
+%SAT
+
+num = 15;
+cap = 10;
+refill = 7;
+fun = [3,1,-1,2,6,3,-4,5,3,-2,4,-5,7,6,-9];
+K = 100;
+

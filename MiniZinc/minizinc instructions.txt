@@ -1,0 +1,3 @@
+sudo minizinc --solver Gecode games.mzn test_case1.dzn
+
+sudo minizinc --solver Chuffed games.mzn test_case1.dzn

@@ -1,0 +1,10 @@
+% test 5
+% optimal solution: total_fun(79)
+%SAT
+
+num = 7;
+cap = 5;
+refill = 4;
+fun = [8,1,1,-3,2,6,-4];
+K = 40;
+

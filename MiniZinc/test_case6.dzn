@@ -1,0 +1,10 @@
+% test 6
+% opt solution: total_fun(67)
+%SAT
+K = 55;
+num = 8;
+cap = 8;
+refill = 2;
+fun = [-5,3,7,6,-2,1,2,-1];
+
+

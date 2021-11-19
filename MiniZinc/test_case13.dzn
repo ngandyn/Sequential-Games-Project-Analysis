@@ -1,0 +1,10 @@
+% test 13
+% optimal solution: total_fun(120)
+%SAT
+
+num = 10;
+cap = 7;
+refill = 3;
+fun = [2,1,2,3,4,2,4,5,2,1];
+K = 100;
+
